@@ -1,5 +1,7 @@
 # Overview
-CRUD básico feito em Angular e typescript e servidor desenvolvido em node.js.
+CRUD básico feito em Angular e typescript e servidor desenvolvido em node.js. <br>
+Basic CRUD developed in Angular with typescript and server implemented in node.js <br>
+server repository -> https://github.com/radamesk9/db-json
 
 # BasicCrud
 
