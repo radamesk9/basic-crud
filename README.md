@@ -1,3 +1,6 @@
+# Overview
+CRUD básico feito em Angular e typescript e servidor desenvolvido em node.js.
+
 # BasicCrud
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
